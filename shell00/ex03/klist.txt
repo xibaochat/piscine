@@ -1,0 +1,5 @@
+Credentials cache: API:2FCEA28D-82CC-4757-BDAF-A337CFE740C3
+        Principal: xinwang@42.FR
+
+  Issued                Expires               Principal
+Jul  1 14:45:38 2019  Jul  8 14:45:29 2019  krbtgt/42.FR@42.FR
