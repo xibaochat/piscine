@@ -1,0 +1,1 @@
+cat /etc/passwd | grep -v "^#" | sed -n 'n;p'| rev | sort -r | sed -n ''"$FT_LINE1"','"$FT_LINE2"'p' | cut -d ':' -f7 |xargs | sed -e 's/ /,/g' | sed 's/$/./g'
